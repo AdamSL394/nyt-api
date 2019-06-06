@@ -1,5 +1,5 @@
+$(document).ready(function () {
 
-// $("#search").on("click",function(){
 
 //     console.log("hi")
 
